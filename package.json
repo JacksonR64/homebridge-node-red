@@ -2,7 +2,7 @@
   "private": false,
   "displayName": "Node Red plugin for Homebridge",
   "name": "@helander/homebridge-node-red",
-  "version": "2.2.0",
+  "version": "2.2.0-jackson.1",
   "description": "Run Node Red inside Homebridge.",
   "license": "Apache-2.0",
   "repository": {
@@ -29,7 +29,7 @@
     "node-red"
   ],
   "dependencies": {
-    "node-red": "^3.1.3",
+    "node-red": "^4.0.0",
     "node-red-contrib-homebridge-automation": "^0.1.11"
   },
   "devDependencies": {
